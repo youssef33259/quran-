@@ -1,0 +1,5 @@
+{
+  "name": "Quran Web Player",
+  "description": "A web application to listen to the 30 parts (Juz) of the Holy Quran.",
+  "requestFramePermissions": []
+}
